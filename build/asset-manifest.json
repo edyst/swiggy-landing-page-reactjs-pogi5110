@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3210ccb7.chunk.css",
+    "main.js": "/static/js/main.2c87f1b5.chunk.js",
+    "main.js.map": "/static/js/main.2c87f1b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea43ad81.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea43ad81.js.map",
+    "static/js/2.1e6ead84.chunk.js": "/static/js/2.1e6ead84.chunk.js",
+    "static/js/2.1e6ead84.chunk.js.map": "/static/js/2.1e6ead84.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3210ccb7.chunk.css.map": "/static/css/main.3210ccb7.chunk.css.map",
+    "static/js/2.1e6ead84.chunk.js.LICENSE.txt": "/static/js/2.1e6ead84.chunk.js.LICENSE.txt",
+    "static/media/Swiggy-logo.d9748d57.png": "/static/media/Swiggy-logo.d9748d57.png",
+    "static/media/fb.28fd0d77.webp": "/static/media/fb.28fd0d77.webp",
+    "static/media/insta.c3e332bc.webp": "/static/media/insta.c3e332bc.webp",
+    "static/media/jumbo.css": "/static/media/main-bg.f2f26689.jfif",
+    "static/media/pinterest.a91667dc.webp": "/static/media/pinterest.a91667dc.webp",
+    "static/media/restr-1.8c94aa21.png": "/static/media/restr-1.8c94aa21.png",
+    "static/media/restr-2.5c564601.png": "/static/media/restr-2.5c564601.png",
+    "static/media/twitter.89ce6d6e.webp": "/static/media/twitter.89ce6d6e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea43ad81.js",
+    "static/js/2.1e6ead84.chunk.js",
+    "static/css/main.3210ccb7.chunk.css",
+    "static/js/main.2c87f1b5.chunk.js"
+  ]
+}
