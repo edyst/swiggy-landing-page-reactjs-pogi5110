@@ -9,7 +9,7 @@
     display: flex;
     flex-wrap: wrap;
     color: white;
-    justify-content: space-between;
+    justify-content: center;
 }
 .feature-img{
     width:105px;
@@ -17,12 +17,15 @@
 }
 .minOrder{
     padding:25px;
+    max-width: 320px;
 }
 .ordertrack{
     padding:25px;
+    max-width: 320px;
 }
 .fastDelivery{
     padding:25px;
+    max-width: 320px;
 }
 .feature-heading{
     font-size: 20px;
@@ -30,4 +33,7 @@
 .feature-description{
     color: #e0cbc1;
     font-size: 15px;
+}
+table{
+    margin:0 auto;
 }

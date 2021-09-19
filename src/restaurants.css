@@ -9,6 +9,7 @@
 .download{
     display: flex;
     justify-content: space-between;
+    flex-wrap:wrap;
 }
 .down-img{
     width: 180px;
@@ -29,4 +30,7 @@
 }
 .rest-written{
     padding: 40px;
+}
+.text-rest{
+    max-width: 400px;
 }

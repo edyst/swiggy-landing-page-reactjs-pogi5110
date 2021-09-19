@@ -1,7 +1,6 @@
 import react, {Component} from "react";
 import logo from './img/Swiggy-logo.png';
 import './jumbo.css';
-import bg from './img/main-bg.jfif'
 
 class Jumbo extends Component{
     render(){

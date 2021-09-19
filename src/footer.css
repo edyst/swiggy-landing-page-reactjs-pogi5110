@@ -50,6 +50,7 @@
     display: flex;
     justify-content: space-between;
     padding-bottom: 30px;
+    flex-wrap: wrap;
 }
 .font-up{
     color: white;

@@ -11,8 +11,10 @@ class Restaurant extends Component{
             <div class="restaurant-container">
                 <div class="flex-rest">
                 <div class="rest-written">
+                    <div class="text-rest">
                     <h1 class="head">Restaurants in <br/>your pocket</h1>
-                    <p class="rest-descrip">Order from your favorite restaurants & track <br/>on the go, with the all-new Swiggy app.<br/><br/></p>
+                    <p class="rest-descrip">Order from your favorite restaurants & track on the go, with the all-new Swiggy app.<br/><br/></p>
+                    </div>
                     <div class="download">
                         <a href=" "><img src={ios} alt="ios" class="down-img"></img></a>
                         <a href=" "><img src={gplay} alt="play store" class="down-img"></img></a>

@@ -1,8 +1,20 @@
-@media screen and (max-width: 500px){
+@media screen and (max-width: 690px){
+    .main{
+        height:640px !important;
+        padding-right: 15px!important;
+    }
     .main-right{
         z-index: -1;
         position: absolute!important;
         opacity: 0.3;
+        height: 640px !important;
+    }
+    .input-location::placeholder{
+        color: transparent !important;
+    }
+    .logo-main{
+        width: 130px !important;
+        height: 30px !important;
     }
 }
 
@@ -68,7 +80,7 @@
 }
 
 .input-location{
-    height: 58px;
+    height: 54px;
     font-size: 18px;
     width: 75%;
 }
