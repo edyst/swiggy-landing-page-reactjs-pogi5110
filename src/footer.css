@@ -1,0 +1,81 @@
+.footer{
+    background-color: black;
+    padding-top: 75px;
+}
+.flexbox{
+    display: flex;
+    flex-direction: column;
+    margin:0 auto;
+    max-width: 1200px;
+    flex-wrap: wrap;
+}
+.up{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-bottom: 1px solid #4d4d4d;
+}
+.footer-head{
+    color: gray;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+.lists{
+    font-size: 17px;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    line-height: 35px;
+}
+.down-list{
+    line-height: 80px !important;
+}
+.down-button{
+    height:68px;
+    width: 200px;
+    border: 1px solid white;
+    border-radius: 8px;
+    transition: width 0.5s, height 0.5s;
+}
+
+.middle-flex{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #4d4d4d;
+    flex-wrap: wrap;
+}
+.down{
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+.font-up{
+    color: white;
+    font-size: 20px;
+}
+.pnglogo{
+    width: 140px;
+    height: 40px;
+}
+.socials{
+    height: 24px;
+    width: 24px;
+    padding:15px;
+    transition: width 0.5s, height 0.5s;
+}
+ul{
+    padding: 0%;
+}
+.lists:hover{
+    font-weight: 600;
+}
+.down-button:hover{
+    height:70px;
+    width: 205px;
+}
+.socials:hover{
+    height:30px;
+    width:30px;
+}

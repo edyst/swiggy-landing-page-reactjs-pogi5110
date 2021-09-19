@@ -1,0 +1,33 @@
+.container{
+    background-color: #2b1e16;
+    padding-bottom: 30px;
+}
+.flex-start{
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: space-between;
+}
+.feature-img{
+    width:105px;
+    height:200px;
+}
+.minOrder{
+    padding:25px;
+}
+.ordertrack{
+    padding:25px;
+}
+.fastDelivery{
+    padding:25px;
+}
+.feature-heading{
+    font-size: 20px;
+}
+.feature-description{
+    color: #e0cbc1;
+    font-size: 15px;
+}

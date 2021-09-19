@@ -1,0 +1,32 @@
+
+.flex-rest{
+    max-width: 1300px;
+    margin:0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.download{
+    display: flex;
+    justify-content: space-between;
+}
+.down-img{
+    width: 180px;
+    height: 54px;
+}
+.sample{
+    width: 384px;
+    height: 489px;
+}
+.head{
+    font-size: 40px;
+    color: #282c3f;
+    line-height:45px;
+}
+.rest-descrip{
+    font-size: 20px;
+    color: #7e808c;
+}
+.rest-written{
+    padding: 40px;
+}
